@@ -1,0 +1,8 @@
+[BlowDart]
+Type=gun
+Cost=0
+Info=A blowdart that shoots poison needles.
+Abilities=BlindingDart.ToxicShot.Mushroom
+Hits=1
+BasePower=40
+StatusType=Poison

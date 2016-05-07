@@ -1,0 +1,25 @@
+[BlindingDart]
+Type=Single
+StatusType=Poison.Blind
+Cost=0
+Desc=shoots a large dart at %enemy
+TP=10
+Hits=1
+BasePower=30
+Info=A blinding dart.
+
+[Mushroom]
+Type=AOE
+Cost=0
+Info=Just a normal mushroom.
+Desc=sets a mushroom below %enemy
+BasePower=30
+StatusType=Poison.Slow
+TP=30
+
+[ToxicShot]
+Type=Single
+StatusType=Poison
+Cost=0
+Desc=shoots a dart at %enemy
+TP=10
